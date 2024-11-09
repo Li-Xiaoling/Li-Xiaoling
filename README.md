@@ -1,5 +1,7 @@
 Hi, I'm Xiaoling Li 👋
 
-Researching **Computer Vision** and **Information Fusion**.
+- **Research Interests**:  
+  - *Computer Vision* 
+  - *Information Fusion* 
 
-📫 **Email**:: [lix937334@gmail.com]
+📫 **Email**: [lix937334@gmail.com]
